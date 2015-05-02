@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #Animate.css
 *Just-add-water CSS animation*
 
@@ -71,3 +72,12 @@ Animate.css is licensed under the MIT license. (http://opensource.org/licenses/M
 
 ## Contributing
 Pull requests are the way to go here. I apologise in advance for the slow action on pull requests and issues. I only have two rules for submitting a pull request: match the naming convention (camelCase, categorised [fades, bounces, etc]) and let us see a demo of submitted animations in a [pen](http://codepen.io). That last one is important.
+=======
+# Animate.css
+*Just-add-water CSS animation*
+
+**PSA: This is the `gh-pages` branch, home of the Animate.css website. To download the latest version of Animate.css, switch to the `master` branch.**
+
+## Contributing to the Animate.css website
+The Animate.css website is a simple little one-pager. When you add an animation to the master branch in a pull request, you should open a second pull request adding the animation to the website.
+>>>>>>> 2a1fad031010336f68903393c0b1a29d662fee47

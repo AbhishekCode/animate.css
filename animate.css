@@ -4,7 +4,11 @@
 Animate.css - http://daneden.me/animate
 Licensed under the MIT license - http://opensource.org/licenses/MIT
 
+<<<<<<< HEAD
 Copyright (c) 2014 Daniel Eden
+=======
+Copyright (c) 2013 Daniel Eden
+>>>>>>> 2a1fad031010336f68903393c0b1a29d662fee47
 */
 
 .animated {
@@ -3122,4 +3126,8 @@ Copyright (c) 2014 Daniel Eden
 .zoomOutUp {
   -webkit-animation-name: zoomOutUp;
   animation-name: zoomOutUp;
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 2a1fad031010336f68903393c0b1a29d662fee47

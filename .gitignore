@@ -1,4 +1,8 @@
 .sass-cache
 node_modules/
+<<<<<<< HEAD
 .DS_Store
 test/
+=======
+.DS_Store
+>>>>>>> 2a1fad031010336f68903393c0b1a29d662fee47
